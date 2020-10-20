@@ -1,0 +1,13 @@
+#myCanvas{
+    background-color: dimgray;
+}
+#jiu{
+    width: 15%;
+    font-family: "Black Han Sans";
+    font-size: 10ch;
+}
+#brush_border{
+    font-family: "Black Han Sans";
+    font-size: 10ch;
+    width: 50%;
+}
